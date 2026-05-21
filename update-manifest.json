@@ -1,12 +1,6 @@
 {
-  "_fieldInfo": {
-    "version": "the latest available version (must match semver format: X.Y.Z)",
-    "releaseDate": "when this version was released (YYYY-MM-DD)",
-    "notes": "one sentence describing what changed — shown to the user in the banner",
-    "downloadUrl": "direct link to the installer .exe file"
-  },
   "version": "1.0.0",
   "releaseDate": "2026-05-01",
   "notes": "Initial release.",
-  "downloadUrl": "https://your-download-link.com/FlotaPlus-Setup-1.0.0.exe"
+  "downloadUrl": "https://github.com/erdilatifi/flotaplus-updates/releases/download/v1.0.0/FlotaPlus-Setup-1.0.0.exe"
 }
